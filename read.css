@@ -14,7 +14,6 @@ html {
 }
 body {
   margin: 0;
-  background-image: url("http://i.huffpost.com/gen/1569133/images/o-CALIFORNIA-DROUGHT-facebook.jpg");
 
 }
 article,
@@ -4856,11 +4855,9 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #f7f7f7;
-  background-image: url("http://www.blastr.com/sites/blastr/files/water_572238684.jpg");
+  background-color: #D7EEFA;
 }
 .jumbotron h1,
 .jumbotron .h1 {
